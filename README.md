@@ -8,7 +8,8 @@ This is a test update to trigger CI.
 - Master Build Status [![Master Build](https://img.shields.io/github/actions/workflow/status/40794500/DevOpsClassLab1/main.yml?branch=master&style=flat-square)](https://github.com/40794500/DevOpsClassLab1/actions/workflows/main.yml)
 - Develop Build Status [![Develop Build](https://img.shields.io/github/actions/workflow/status/40794500/DevOpsClassLab1/main.yml?branch=develop&style=flat-square)](https://github.com/40794500/DevOpsClassLab1/actions/workflows/main.yml)
 - License [![License](https://img.shields.io/github/license/40794500/DevOpsClassLab1.svg?style=flat-square)](https://github.com/40794500/DevOpsClassLab1/blob/master/LICENSE)
-- Release [![Releases](https://img.shields.io/github/v/release/40794500/DevOpsClassLab1?style=flat-square)](https://github.com/40794500/DevOpsClassLab1/releases)
+- Release ![Release](https://img.shields.io/badge/release-none-lightgrey?style=flat-square)
+
 
 # DevOps
 
