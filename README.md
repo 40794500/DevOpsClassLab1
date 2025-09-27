@@ -10,4 +10,4 @@ This is a test update to trigger CI.
 [![Releases](https://img.shields.io/github/release/40794500/DevOpsClassLab1/all.svg?style=flat-square)](https://github.com/40794500/DevOpsClassLab1/releases)
 
 # DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/https://github.com/40794500/DevOpsClassLab1/<action name taken from main.yml>/<branch>?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/https://github.com/40794500/DevOpsClassLab1/<action name taken from main.yml>/<develop>?style=flat-square)
