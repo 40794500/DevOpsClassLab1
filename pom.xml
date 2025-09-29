@@ -30,7 +30,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.napier.sem.App</mainClass>
+                            <mainClass>imc.com.App</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
